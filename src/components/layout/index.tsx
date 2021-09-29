@@ -1,4 +1,5 @@
 import {Menu} from './menu';
+import { Preload } from './preload';
 import {ReactNode} from 'react';
 
 interface LayoutProps {
